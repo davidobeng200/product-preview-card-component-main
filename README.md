@@ -48,8 +48,6 @@ Users should be able to:
 ### What I learned
 I have learnt how to use the 'source' element in html to switch between images on different screen sizes.
 
-To see how you can add code snippets, see below:
-
 
 ### Continued development
 I want to focus on responsiveness and JavaScript in my continued developments.
