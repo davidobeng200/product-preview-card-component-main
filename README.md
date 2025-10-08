@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github Repository](https://github.com/davidobeng200/product-preview-card-component-main.git)
-- Live Site URL: [GitHub Pages](https://your-live-site-url.com)
+- Live Site URL: [GitHub Pages](https://davidobeng200.github.io/product-preview-card-component-main/)
 
 ## My process
 
@@ -61,7 +61,7 @@ I want to focus on responsiveness and JavaScript in my continued developments.
 
 ## Author
 
-- Website - [DAVID OBENG ADJEI](https://www.your-site.com)
+- Website - [DAVID OBENG ADJEI](https://davidobeng200.github.io/product-preview-card-component-main/)
 - Frontend Mentor - [@davidobeng200](https://www.frontendmentor.io/profile/davidobeng200)
 
 
