@@ -28,11 +28,12 @@ Users should be able to:
 ### Screenshot
 
 ![Desktop View](./Screenshot 2.png)
+
 ![Mobile View](./Screenshot 1.png)
 
 ### Links
 
-- Solution URL: [Github Repository](https://your-solution-url.com)
+- Solution URL: [Github Repository](https://github.com/davidobeng200/product-preview-card-component-main.git)
 - Live Site URL: [GitHub Pages](https://your-live-site-url.com)
 
 ## My process
