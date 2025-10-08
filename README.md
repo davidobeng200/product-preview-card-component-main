@@ -27,9 +27,9 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop View](Screenshot 2.png)
+![Desktop View](./Screenshot_2.png)
 
-![Mobile View](Screenshot 1.png)
+![Mobile View](./Screenshot_1.png)
 
 ### Links
 
