@@ -1,0 +1,159 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: hsl(30, 38%, 92%);      
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.main-container{
+   
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 10px;
+    height: 27em;
+    width: 35em;
+}
+
+.content{
+    width: 50%;
+    padding: 20px;
+}
+
+img{
+    width: 100%;
+    height: 100%;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.image-container{
+    width: 50%;
+    height: 100%;
+}
+
+.perfume, .description{
+    font-family: Montserrat;
+    margin-block-start: 20px;
+    margin-block-end: 20px;
+    color: hsl(228, 12%, 48%);
+}
+
+.perfume{
+    letter-spacing: 4px;
+    font-size: 0.8em;
+    font-weight: 500;
+}
+
+.description{
+    font-size: 0.8em;
+    font-weight: 500;
+}
+
+h1{
+    font-family: Fraunces;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+}
+
+.current-price{
+    color: hsl(158, 36%, 37%);
+    font-family: Fraunces;
+    font-size: 1.7em;
+    font-weight: 700;
+}
+
+.old-price{
+    color: hsl(228, 12%, 48%);
+    font-family: Montserrat;
+    font-size: 0.8;
+    text-decoration: line-through;
+}
+
+.price{
+    display: flex;
+    align-items: center;
+    gap: 1em;
+}
+
+.add-cart{
+    background-color: hsl(158, 36%, 37%);
+    color: hsl(0, 0%, 100%);
+    font-family: Montserrat;
+    font-weight: 700;
+    border: 0;
+    border-radius: 10px;
+    width: 100%;
+    margin-block-start: 1.5em;
+    margin-block-end: 1.5em;
+    padding: 1em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1em;
+    cursor: pointer;
+}
+
+.add-cart img{
+    height: 1em;
+    width: 1em;
+}
+.add-cart:hover{
+    background-color: hsl(158, 42%, 18%);
+    transition: 0.5s;
+}
+
+.attribution{
+    margin-block-start: 1.5em;
+}
+
+@media (max-width: 600px){
+
+    body{
+        display: flex;
+        flex-direction: column;
+        margin-top: 2.5em;
+    }
+
+    .main-container{
+        margin-top: 2.5em;
+    }
+
+    .image-container img{
+        border-top-left-radius: 10px;
+        border-top-right-radius: 10px;
+        border-bottom-left-radius: 0;
+        width: 100%;
+        height: 100%;
+    }
+
+    .container{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        height: 45em;
+        width: 20em;
+        margin-top: 20px;
+    }
+
+    .image-container{
+        width: 100%;
+        height: 300px;
+        overflow: hidden;
+    }
+
+    .content{
+        width: 100%;
+    }
+
+}
