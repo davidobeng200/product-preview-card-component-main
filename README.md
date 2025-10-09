@@ -29,8 +29,6 @@ Users should be able to:
 
 ![Desktop View](./Screenshot_2.png)
 
-![Mobile View](./Screenshot_1.png)
-
 ### Links
 
 - Solution URL: [Github Repository](https://github.com/davidobeng200/product-preview-card-component-main.git)
